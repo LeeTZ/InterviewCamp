@@ -7,6 +7,10 @@ by TTT
 
 知识点
 ---------------
+### 基础知识
+* 算法复杂度 Big-O Notation
+* 编译原理 Compiler
+* 浮点数数的表示和存储 Floating Point Representation
 
 ### 算法
 * 二分搜索 Binary Search 
@@ -30,15 +34,20 @@ by TTT
 * 并查集 Union Find
 * 字典树 Trie
 
-### 基础知识
-* 算法复杂度 Big-O Notation
-* 编译原理 Compiler
-* 浮点数数的表示和存储 Floating Point Representation
-
 
 阅读材料
 ---------------
 
+* 计算机如何处理一段程序：
+    -  [CPU 是如何执行代码的](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    -  [机器码指令](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+* 编译器
+    - [一分钟理解编译器](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+* 浮点数的储存：
+     - [IEEE754 32-bit 浮点二进制](https://www.youtube.com/watch?v=50ZYcZebIec)
+ * 算法复杂度：
+	 -[时间复杂度入门](http://www.jianshu.com/p/99bac69fdd97)
+	 -[速查表](http://bigocheatsheet.com/)
 
 练习题
 ---------------
