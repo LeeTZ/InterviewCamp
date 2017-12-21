@@ -75,6 +75,7 @@ by TTT
 阅读材料
 ---------------
 
+## 简单编译原理
 * 计算机如何处理一段程序：
     - [CPU 是如何执行代码的](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [机器码指令](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
@@ -82,9 +83,36 @@ by TTT
     - [一分钟理解编译器](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
 * 浮点数的储存：
     - [IEEE754 32-bit 浮点二进制](https://www.youtube.com/watch?v=50ZYcZebIec)
-* 算法复杂度：
+
+## 算法复杂度分析
+
+#### 大 O 表示
+* **大 O 表示** 用于表示某个算法的上限，往往用于描述最坏的情况。
+
+![Alt text](/Images/bigO.png?raw=true "Theta Notation")
+
+#### 小 O 表示
+* **小 O 表示**用于描述某个算法的渐进上界，不过二者要更为紧密。
+
+#### 大 Ω 表示
+* **大 Ω 表示**用于描述某个算法的渐进下界。
+
+![Alt text](/Images/bigOmega.png?raw=true "Theta Notation")
+
+#### 小 ω 表示
+* **Little Omega Notation**用于描述某个特定算法的下界，不过不一定很靠近。
+
+#### Theta Θ 表示
+* **Theta Notation**用于描述某个确定算法的确界。
+
+![Alt text](/Images/theta.png?raw=true "Theta Notation")
+
+#### 算法复杂度：
     - [时间复杂度入门](http://www.jianshu.com/p/99bac69fdd97)
     - [速查表](http://bigocheatsheet.com/)
+
+## 数据结构
+
 ### Linked List
  * 链表即是由节点（Node）组成的线性集合，每个节点可以利用指针指向其他节点。它是一种包含了多个节点的、能够用于表示序列的数据结构。
  * **单向链表**: 链表中的节点仅指向下一个节点，并且最后一个节点指向空。
@@ -293,27 +321,3 @@ by TTT
                 y ^= x;
                 x ^= y;
              ```
-
-## 算法复杂度分析
-
-#### 大 O 表示
-* **大 O 表示** 用于表示某个算法的上限，往往用于描述最坏的情况。
-
-![Alt text](/Images/bigO.png?raw=true "Theta Notation")
-
-#### 小 O 表示
-* **小 O 表示**用于描述某个算法的渐进上界，不过二者要更为紧密。
-
-#### 大 Ω 表示
-* **大 Ω 表示**用于描述某个算法的渐进下界。
-
-![Alt text](/Images/bigOmega.png?raw=true "Theta Notation")
-
-#### 小 ω 表示
-* **Little Omega Notation**用于描述某个特定算法的下界，不过不一定很靠近。
-
-#### Theta Θ 表示
-* **Theta Notation**用于描述某个确定算法的确界。
-
-![Alt text](/Images/theta.png?raw=true "Theta Notation")
-
