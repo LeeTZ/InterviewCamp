@@ -45,9 +45,9 @@ by TTT
     - [一分钟理解编译器](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
 * 浮点数的储存：
      - [IEEE754 32-bit 浮点二进制](https://www.youtube.com/watch?v=50ZYcZebIec)
- * 算法复杂度：
-	 -[时间复杂度入门](http://www.jianshu.com/p/99bac69fdd97)
-	 -[速查表](http://bigocheatsheet.com/)
+* 算法复杂度：
+     -[时间复杂度入门](http://www.jianshu.com/p/99bac69fdd97)
+     -[速查表](http://bigocheatsheet.com/)
 
 练习题
 ---------------
