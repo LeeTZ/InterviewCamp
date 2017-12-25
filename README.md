@@ -71,6 +71,15 @@ by TTT
 * 字典树
 	* [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/)
 
+面经
+---------------
+* [3 Sum](https://leetcode.com/problems/3sum/description/); Source: [311587](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=311587)
+* [Minumum Insertion to Form a Palindrome](https://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/); Source: [310765](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310765)
+* [Count and Say](https://leetcode.com/problems/count-and-say/description/); Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841)
+* Given a set of points in a XY plane, find 4 points that could form a rectangle with the minimum area. (All edges are parrallel with axis); Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841)
+* Given a string, find the first character that appears only once in this string.(Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841))
+* Given a set of intervals and a point, find all intervals that contain this point. ([Interval Tree](https://cs.stackexchange.com/questions/51550/data-structure-for-set-of-intervals-query-for-all-intervals-contains-given-poi/51551)); (Source: [302897](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=302897))
+  
 
 阅读材料
 ---------------
