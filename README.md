@@ -77,9 +77,13 @@ by TTT
 * [Minumum Insertion to Form a Palindrome](https://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/); Source: [310765](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310765)
 * [Count and Say](https://leetcode.com/problems/count-and-say/description/); Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841)
 * Given a set of points in a XY plane, find 4 points that could form a rectangle with the minimum area. (All edges are parrallel with axis); Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841)
-* Given a string, find the first character that appears only once in this string.(Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841))
-* Given a set of intervals and a point, find all intervals that contain this point. ([Interval Tree](https://cs.stackexchange.com/questions/51550/data-structure-for-set-of-intervals-query-for-all-intervals-contains-given-poi/51551)); (Source: [302897](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=302897))
-  
+* Given a string, find the first character that appears only once in this string.Source: [310841](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=310841)
+* Given a set of intervals and a point, find all intervals that contain this point. ([Interval Tree](https://cs.stackexchange.com/questions/51550/data-structure-for-set-of-intervals-query-for-all-intervals-contains-given-poi/51551)); Source: [302897](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=302897)
+* Guessing game - I pick a number between 1 and 100 and you  are trying to guess it. Every time you query a number I tell you if it is higher or lower. Part 1- Write the code of it, if cost of querying a number is equal. Part 2- How about if cost of querying number x is x? How would you change the algorithm? [Binary Search then DP](https://www.glassdoor.com/Interview/Guessing-game-I-pick-a-number-between-1-and-100-and-you-are-trying-to-guess-it-Every-time-you-query-a-number-I-tell-you-QTN_590896.htm);  Source: [311198](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=311198)
+* [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/); Source: [304671](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=304671)
+* [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/); Source: [301948](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=301948)
+* [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/); Source: [220188](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=220188)
+
 
 阅读材料
 ---------------
